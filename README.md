@@ -37,3 +37,5 @@
 ##### 이미지를 넣을때는 이미지의 이름 ( 경로 ) 가 필요함
 ![Alt text](profile1.png)
 
+[1교시 -Open Al 맛보기 09ec37c150f64d8cb583327e8ecf23b0.md](https://github.com/SanctusAlbino/TestKgh/files/11024586/1.-Open.Al.09ec37c150f64d8cb583327e8ecf23b0.md)
+
